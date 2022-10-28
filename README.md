@@ -1,4 +1,4 @@
-# NFT-preview-card-component
+# NFT-Preview-Card-Component
 
 # Author - Misho Sisvadze
 
